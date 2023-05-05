@@ -11,7 +11,7 @@ use org.wasmcloud.model#wasmbus
 use org.wasmcloud.model#U8
 
 @wasmbus(
-    contractId: "wasmcloud:display",
+    contractId: "jordan-rash:display",
     providerReceive: true )
 service Display {
   version: "0.1.0",
